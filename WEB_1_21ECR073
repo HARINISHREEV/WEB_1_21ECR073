@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<Title>www.cyphertuni.com</title>
+		<h2 align="center">CYPHER TUNI </h2>
+</head>
+<body background="https://media.istockphoto.com/id/1338083603/photo/the-concept-of-online-women-shopping-clothes-on-social-media-app-3d-smartphone-screen-with.jpg?s=612x612&w=0&k=20&c=a5SnkpmdDT5WK5b12YvHEltheugdqvm-bwyptppMa4Q="style="background-repeat:no-repeat;background-size:cover;">
+<table border="0" cellpadding="5"cellspacing="5" width="100%">
+<tr>
+<th><a href="# ">HOME</a></th>
+<th><a href="# ">ABOUT</a></th>
+<th><a href="# ">PRODUCTS</a></th>
+<th><a href="# ">CONTACT US</a></th>
+<th><a href="# ">BLOG</a></th>
+<th><a href="# ">SUPPORT</a></th>
+</tr>
+</table>
+<div class="forms" align="center">
+	<br><br><br><br><br> <br>
+        <h1>Sign Up</h1>
+        <p><a href="#">Sign up here</a></p>
+        <h1>Login</h1>
+        <p><a href="#">Login here</a></p>
+        <h1>Credentials</h1>
+        <p><a href="#">Credits</a></p>
+        <h1>Awards</h1>
+        <p><a href="#">Awards</a></p>
+        <h1>Customer Review</h1>
+        <p><a href="#">review</a></p>
+    </div>
+</body>
+</html>
